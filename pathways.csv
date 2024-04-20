@@ -1,0 +1,20 @@
+Pathways,EMT chance (breakThreshold),Tumor Growth Probability (tumorChance),Tumor Death Sensitivity (deathChance),Mutation Probability (mutationChance),Metastasis Probability (metastasis Chance)
+Genes involved in mRNA splicing,+,+,?,+,?
+Genes involved in Processing of Capped Intron Containing Pre mRNA,+,+,?,?,+
+Genes involved in mRNA Processing,+,+,?,NA,+
+Formation of an intermediate Spliceosomal C (Bact) complex,+,+,?,?,+
+Formation of Exon Junction Complex,?,?,?,?,?
+Cleavage at the 3' Splice Site and Exon Ligation,+,+,-,NA,+
+Formation of the Spliceosomal A Complex,?,?,?,?,?
+Formation of the Spliceosomal B Complex,?,?,?,?,?
+Formation of the active Spliceosomal C (B*) complex,?,?,?,?,?
+Lariat Formation and 5' Splice Site Cleavage,?,?,?,?,?
+mRNA processing,+,+,-,NA,+
+Cleavage at the 3' splice site and exon ligation,+,+,-,NA,+
+Nonsense Mediated Decay (NMD),-,-,+,NA,-
+Chaperon Mediated Autophagy,-,-,+,NA,-
+Regulation of TP53 Expression and Degradation,-,-,+,-,-
+TP53 activity through methylation,-,-,+,-,-
+Pexophagy,?,-,+,?,?
+Aggrephagy,-,-,+,?,-
+Signaling by FGFR2,+,+,-,?,+
