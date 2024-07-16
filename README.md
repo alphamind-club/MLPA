@@ -48,4 +48,4 @@ Contributions are welcome! Please fork this repository and submit pull requests.
 
 ## Contact
 
-For questions or support, please open an issue or contact the project maintainers at [jamesguru77@gmail.com].
+For questions or support, please open an issue or contact the project maintainers at [jamesguru77@gmail.com] or [jakechen@uab.edu].
