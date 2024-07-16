@@ -1,0 +1,4 @@
+Image,Day,Body Pixel Count,Tumor Pixel Count,High Density Tumor Pixel Count
+Image 1,Day 0,702351,2063020,627970
+Image 1,Day 3,702826,4162470,2795300
+Image 1,Day 5,702617,5172520,3688050
